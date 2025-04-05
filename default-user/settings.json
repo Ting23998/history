@@ -11,7 +11,10 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "Eldoria",
+                "望仔我们喜欢你"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -363,7 +366,8 @@
         "selectSamplers": {
             "forceHidden": [],
             "forceShown": []
-        }
+        },
+        "wi_key_input_plaintext": true
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
