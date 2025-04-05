@@ -665,9 +665,10 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": false,
-            "isCombined": false,
+            "isEnabled": true,
+            "isCombined": true,
             "isPopout": false,
+            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
