@@ -324,7 +324,7 @@
         "fuzzy_search": true,
         "encode_tags": false,
         "servers": [],
-        "bogus_folders": false,
+        "bogus_folders": true,
         "zoomed_avatar_magnification": false,
         "show_tag_filters": false,
         "aux_field": "character_version",
@@ -664,7 +664,8 @@
         {
             "id": "1345561466591",
             "name": "ST Default",
-            "color": "rgba(108, 32, 32, 1)"
+            "color": "rgba(108, 32, 32, 1)",
+            "color2": ""
         }
     ],
     "tag_map": {
