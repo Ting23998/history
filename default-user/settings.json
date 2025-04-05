@@ -437,7 +437,7 @@
             "template": "[{{user}} sends {{char}} a picture that contains: {{caption}}]"
         },
         "expressions": {
-            "showDefault": false,
+            "showDefault": true,
             "api": 1,
             "llmPrompt": "Ignore previous instructions. Classify the emotion of the last message. Output just one word, e.g. \"joy\" or \"anger\". Choose only one of the following labels: {{labels}}",
             "custom": []
