@@ -12,8 +12,7 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "Eldoria",
-                "望仔我们喜欢你"
+                "苏云晏-是前任就不能当狗了吗！"
             ],
             "charLore": [
                 {
@@ -27,7 +26,7 @@
         "world_info_depth": 2,
         "world_info_min_activations": 0,
         "world_info_min_activations_depth_max": 0,
-        "world_info_budget": 25,
+        "world_info_budget": 59,
         "world_info_include_names": true,
         "world_info_recursive": true,
         "world_info_overflow_alert": false,
