@@ -308,11 +308,11 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "[{{user]",
+                "description": "[{{user}}]是男性，",
                 "position": 0
             }
         },
-        "persona_description": "[{{user]",
+        "persona_description": "[{{user}}]是男性，",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
