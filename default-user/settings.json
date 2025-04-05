@@ -2,7 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.12.11",
     "username": "绥玉",
-    "active_character": "苏云晏.png",
+    "active_character": "星野澪（无美化）.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -465,7 +465,8 @@
         "dice": {},
         "regex": [],
         "character_allowed_regex": [
-            "陈望.png"
+            "陈望.png",
+            "星野澪（无美化）.png"
         ],
         "tts": {
             "voiceMap": "",
