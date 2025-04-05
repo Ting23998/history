@@ -12,6 +12,8 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
+                "Eldoria",
+                "望仔我们喜欢你",
                 "苏云晏-是前任就不能当狗了吗！"
             ],
             "charLore": [
@@ -35,7 +37,7 @@
         "world_info_character_strategy": 1,
         "world_info_budget_cap": 0,
         "world_info_use_group_scoring": false,
-        "world_info_max_recursion_steps": 0
+        "world_info_max_recursion_steps": 6
     },
     "textgenerationwebui_settings": {
         "temp": 0.5,
