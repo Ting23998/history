@@ -14,6 +14,14 @@
             "globalSelect": [
                 "Eldoria",
                 "望仔我们喜欢你"
+            ],
+            "charLore": [
+                {
+                    "name": "陈望",
+                    "extraBooks": [
+                        "望仔我们喜欢你"
+                    ]
+                }
             ]
         },
         "world_info_depth": 2,
