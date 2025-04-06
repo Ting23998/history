@@ -466,7 +466,8 @@
         "regex": [],
         "character_allowed_regex": [
             "陈望.png",
-            "星野澪（无美化）.png"
+            "星野澪（无美化）.png",
+            "苏云晏.png"
         ],
         "tts": {
             "voiceMap": "",
